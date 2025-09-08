@@ -19,6 +19,7 @@ features:
 - Delete roles
 - Delete emojis
 - Ban all mem, mass create channels, spamming messages, and nuke.
+- All functions can run simulatanously.
 
 ###
 
