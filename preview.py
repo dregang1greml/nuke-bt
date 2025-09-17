@@ -53,5 +53,4 @@ async def change_sv_name(guild):
 async def delete_all_channels(guild):
     tasks = [channel.delete() for channel in guild.channels]
 
-# This is just the preview. To view the whole code, contact the owner of this repository.
-# - kino.dyers.eve [Discord]
+# js a preview :P contact me in dc
