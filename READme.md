@@ -1,11 +1,3 @@
-> if you are interested to view the whole code of this repo or contribute, contact the owner of this repo.
-
-###
-
-> kino.dyers.eve in Discord
-
-###
-
 <p align="center">
 nuke boht.
 </p>
